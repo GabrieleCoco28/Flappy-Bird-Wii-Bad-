@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>FlappyBirdWii</name>
+  <coder>Gabriele Coco</coder>
+  <version>1.0</version>
+  <release_date>20210405</release_date>
+  <short_description>Is flappy bird but for the wii</short_description> 
+  <long_description>Is flappy bird but for the wii but long and brutt</long_description> 
+  <no_ios_reload/>
+</app>
